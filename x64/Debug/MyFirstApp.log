@@ -1,0 +1,3 @@
+﻿  MyFirstApp.cpp
+D:\Coding\MyFirstApp\MyFirstApp.cpp(18,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  MyFirstApp.vcxproj -> D:\Coding\MyFirstApp\x64\Debug\MyFirstApp.exe
